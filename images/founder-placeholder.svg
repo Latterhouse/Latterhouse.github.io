@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151b2c"/><stop offset="1" stop-color="#9d6a27"/></linearGradient></defs>
+<rect width="900" height="1100" fill="url(#g)"/>
+<circle cx="450" cy="380" r="150" fill="#ffffff" opacity=".12"/>
+<path d="M170 970c25-225 130-340 280-340s255 115 280 340" fill="#ffffff" opacity=".12"/>
+<text x="450" y="790" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="38" font-weight="bold">PASTOR'S PHOTO</text>
+<text x="450" y="845" text-anchor="middle" fill="#f3d8a8" font-family="Arial,sans-serif" font-size="25">Replace with a real portrait</text>
+</svg>
